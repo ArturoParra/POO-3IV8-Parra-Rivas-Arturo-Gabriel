@@ -232,6 +232,7 @@ public class Metodos{
             Metodos llamada = new Metodos();
             
 
+        System.out.println("Este programa fue diseñado por: Parra_Rivas_Arturo_Gabriel_3IV8");
         System.out.println("Que programa desea ejecutar?");
         System.out.println("1.- Calculadora de edad");
         System.out.println("2.- Calculadora de areas");
